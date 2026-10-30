@@ -1,2 +1,2 @@
-# formation_latex_crypto
+# formation-latex-crypto
 J'apprend le LaTex
